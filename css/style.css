@@ -118,7 +118,6 @@ body{
     display: inline-block;
     list-style-type: none;
     font-weight:bold;
-    
 }
 .login-list i{
     font-size:2rem;
@@ -126,7 +125,6 @@ body{
 }
 .login-list i:hover{
     transform: translateY(-5px);
-    text-shadow:5px 10px 10px  #000;
 }
 .fa-cart-plus{
     position: relative;
@@ -141,7 +139,6 @@ body{
     padding: 4px;
     font-size: 13px;
     bottom: 3px;
-
 }
 /* --------------------------------------hover-lnks------------------------------ */
 .nav-list.dropdown{
@@ -199,17 +196,17 @@ section.slider img {
 .slider-info h2{
     font-size: 50px;
     line-height: 50px;
-    text-shadow:5px 5px 3px  #555;
+    text-shadow:0px 5px 5px  #000000b2;
     width: fit-content;
     height:60px;
 }
 .slider-info h2:first-child{
     color: #7b5244;
-    background-color: #f7f3ef;
+    background-color: #f7f3efd0;
 }
 .slider-info h2:nth-child(2){
     color:#f8f3ed ;
-    background-color: #7b5244;
+    background-color: #7b5244ce;
     margin-bottom: 30px;
 }
 .btn1{
@@ -223,7 +220,6 @@ section.slider img {
 .btn1:hover{
     background-color: #000000;
     color: #f7f3ef;
-    box-shadow: 3px 3px 5px 0 #555;
     cursor: pointer;
 }
 /* ----------------category------------------------------------------ */
